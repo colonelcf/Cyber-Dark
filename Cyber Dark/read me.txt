@@ -1,0 +1,13 @@
+Hello ,to install this loading you must have a webhost !!
+
+
+SERVER - In the server folder, you put on your server !
+WEBSITE - In the webiste folder , you put on webhost !
+
+After we've done all this, you have to go into the loadingcyberdark folder and modify it index.html 
+ and change 
+"   <meta http-equiv="refresh" 
+   content="0; url=https://your-website.ro/cyberdark/"> "  The location where you put the resources to this index! , url address 
+and save .
+
+Good look. 
